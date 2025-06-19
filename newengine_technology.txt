@@ -1,0 +1,9 @@
+✅ Final Stack Summary (based on Ful.io + confirmation):
+
+Layer	       Technology Used
+Frontend	Vue.js, Nuxt.js, Element UI
+Backend 	Node.js and Java
+Web Server	Nginx
+Hosting  	AWS
+Analytics/CRM	Salesforce, Power BI
+UI Framework	Element UI (for Vue.js)
